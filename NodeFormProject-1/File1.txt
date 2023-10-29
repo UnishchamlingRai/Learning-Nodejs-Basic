@@ -1,0 +1,2 @@
+const value=fs.file("./ted",utf-8)
+hello my name is unish
